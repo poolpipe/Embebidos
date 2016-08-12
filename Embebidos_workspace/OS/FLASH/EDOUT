@@ -1,0 +1,11 @@
+C:/Users/Antonio/Embebidos_workspace/OS/Project_Headers\../Sources\main.c:63:information:C5703 Parameter 'task_id' declared in function 'chainTask' but not referenced
+C:/Users/Antonio/Embebidos_workspace/OS/Project_Headers\../Sources\main.c:148:warning:C1825 Indirection to different types ('void (*)()' instead of 'unsigned int *')
+C:/Users/Antonio/Embebidos_workspace/OS/Project_Headers\../Sources\main.c:148:warning:C1805 Non standard conversion used
+C:/Users/Antonio/Embebidos_workspace/OS/Project_Headers\../Sources\main.c:149:warning:C1825 Indirection to different types ('void (*)()' instead of 'unsigned int *')
+C:/Users/Antonio/Embebidos_workspace/OS/Project_Headers\../Sources\main.c:149:warning:C1805 Non standard conversion used
+C:/Users/Antonio/Embebidos_workspace/OS/Project_Headers\../Sources\main.c:150:warning:C1825 Indirection to different types ('void (*)()' instead of 'unsigned int *')
+C:/Users/Antonio/Embebidos_workspace/OS/Project_Headers\../Sources\main.c:150:warning:C1805 Non standard conversion used
+C:/Users/Antonio/Embebidos_workspace/OS/Project_Headers\../Sources\main.c:195:error:C1815 null not declared (or typename)
+C:/Users/Antonio/Embebidos_workspace/OS/Project_Headers\../Sources\main.c:195:error:C1822 Type mismatch (expected 'PCB ', given 'int ')
+C:/Users/Antonio/Embebidos_workspace/OS/Project_Headers\../Sources\main.c:195:error:C1806 Illegal cast-operation
+C:/Users/Antonio/Embebidos_workspace/OS/Project_Headers\../Sources\main.c:195:error:C1814 Arithmetic or pointer-expression expected
